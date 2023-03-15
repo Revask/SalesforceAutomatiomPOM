@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T18:23:24 PST" name="Suite" finished-at="2023-03-08T18:25:05 PST" duration-ms="101377">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T18:23:24 PST" name="Test" finished-at="2023-03-08T18:25:05 PST" duration-ms="101377">
+      <class name="com.Salesforce.Automation.Tests.LoginTests4A4B">
+        <test-method is-config="true" signature="LaunchBrowser(java.lang.String)[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests4A4B@957e06]" started-at="2023-03-08T18:24:47 PST" name="LaunchBrowser" finished-at="2023-03-08T18:24:53 PST" duration-ms="5969" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="salesForceLoginTest4A()[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests4A4B@957e06]" started-at="2023-03-08T18:24:53 PST" name="salesForceLoginTest4A" finished-at="2023-03-08T18:24:58 PST" duration-ms="5585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesForceLoginTest4A -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests4A4B@957e06]" started-at="2023-03-08T18:24:58 PST" name="closeDriver" finished-at="2023-03-08T18:24:59 PST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="LaunchBrowser(java.lang.String)[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests4A4B@957e06]" started-at="2023-03-08T18:24:59 PST" name="LaunchBrowser" finished-at="2023-03-08T18:25:05 PST" duration-ms="5995" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="salesForceLoginTest4B()[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests4A4B@957e06]" started-at="2023-03-08T18:25:05 PST" name="salesForceLoginTest4B" finished-at="2023-03-08T18:25:05 PST" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesForceLoginTest4B -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests4A4B@957e06]" started-at="2023-03-08T18:25:05 PST" name="closeDriver" finished-at="2023-03-08T18:25:05 PST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.Salesforce.Automation.Tests.LoginTests4A4B -->
+      <class name="com.Salesforce.Automation.Tests.LoginTests">
+        <test-method is-config="true" signature="LaunchBrowser(java.lang.String)[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests@22ef9844]" started-at="2023-03-08T18:23:24 PST" name="LaunchBrowser" finished-at="2023-03-08T18:23:31 PST" duration-ms="6654" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="salesForceLoginTest01()[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests@22ef9844]" started-at="2023-03-08T18:23:31 PST" name="salesForceLoginTest01" finished-at="2023-03-08T18:23:32 PST" duration-ms="1335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesForceLoginTest01 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests@22ef9844]" started-at="2023-03-08T18:23:32 PST" name="closeDriver" finished-at="2023-03-08T18:23:32 PST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="LaunchBrowser(java.lang.String)[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests@22ef9844]" started-at="2023-03-08T18:23:32 PST" name="LaunchBrowser" finished-at="2023-03-08T18:23:38 PST" duration-ms="6054" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="salesForceLoginTest02()[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests@22ef9844]" started-at="2023-03-08T18:23:38 PST" name="salesForceLoginTest02" finished-at="2023-03-08T18:23:59 PST" duration-ms="21118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesForceLoginTest02 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests@22ef9844]" started-at="2023-03-08T18:23:59 PST" name="closeDriver" finished-at="2023-03-08T18:24:00 PST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="LaunchBrowser(java.lang.String)[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests@22ef9844]" started-at="2023-03-08T18:24:00 PST" name="LaunchBrowser" finished-at="2023-03-08T18:24:06 PST" duration-ms="6259" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="salesForceLoginTest03()[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests@22ef9844]" started-at="2023-03-08T18:24:06 PST" name="salesForceLoginTest03" finished-at="2023-03-08T18:24:47 PST" duration-ms="40910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- salesForceLoginTest03 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.Salesforce.Automation.Tests.LoginTests@22ef9844]" started-at="2023-03-08T18:24:47 PST" name="closeDriver" finished-at="2023-03-08T18:24:47 PST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.Salesforce.Automation.Tests.LoginTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

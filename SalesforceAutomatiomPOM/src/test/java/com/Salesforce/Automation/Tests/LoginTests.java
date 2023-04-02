@@ -21,6 +21,7 @@ public class LoginTests extends BaseTest
 	public static void salesForceLoginTest01()
 {
 	report.logTestInfo("Login Tests");
+	System.out.println("Test Message");
 	LoginPage loginpg = new LoginPage(driver);
 	String uname = getLogin();
 	report.logTestInfo("Username Entered :" + uname);

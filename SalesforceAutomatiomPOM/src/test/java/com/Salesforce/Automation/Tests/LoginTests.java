@@ -20,7 +20,7 @@ public class LoginTests extends BaseTest
 @Test
 	public static void salesForceLoginTest01()
 {
-	
+	report.logTestInfo("Login Tests");
 	LoginPage loginpg = new LoginPage(driver);
 	String uname = getLogin();
 	report.logTestInfo("Username Entered :" + uname);
